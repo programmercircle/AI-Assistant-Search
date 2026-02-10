@@ -1,6 +1,6 @@
 # Privacy Policy for AI Assistant Search
 
-**Last Updated:** [Current Date]
+**Last Updated:** [Feb-10-2026]
 
 ## Introduction
 
