@@ -87,8 +87,8 @@ Since we don't collect any user data, we have no way to notify you directly of c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email:** [Your Email]
-**GitHub:** [GitHub Repository Link]
+**Email:** programmercircle@gmail.com
+**GitHub:** https://github.com/programmercircle/AI-Assistant-Search/edit/main/PRIVACY_POLICY.md
 **Chrome Web Store Support:** [Link to Support Tab]
 
 ## Your Rights
